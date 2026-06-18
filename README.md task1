@@ -1,0 +1,53 @@
+Rule-Based Chatbot
+
+Description
+
+This project is a simple rule-based chatbot developed using Python. The chatbot interacts with users by responding to predefined questions and commands using conditional statements ("if", "elif", and "else").
+
+The project demonstrates the basic concepts of Natural Language Processing (NLP), user interaction, and conversation flow.
+
+Features
+
+- Greets the user
+- Responds to common questions
+- Provides predefined answers
+- Handles unknown inputs gracefully
+- Allows the user to exit the chat using a command
+
+Technologies Used
+
+- Python 3
+
+How to Run
+
+1. Install Python 3 on your system.
+
+2. Save the chatbot code in a file named "chatbot.py".
+
+3. Open a terminal or command prompt.
+
+4. Run the program using:
+   
+   python chatbot.py
+
+Example Interaction
+
+You: hello
+
+Bot: Hello! How are you today?
+
+You: what is your name
+
+Bot: My name is SmartBot.
+
+You: exit
+
+Bot: Goodbye! Have a nice day.
+
+Learning Outcomes
+
+- Understanding conditional statements
+- Building a simple conversational program
+- Handling user input in Python
+- Creating a basic chatbot using rule-based responses
+
