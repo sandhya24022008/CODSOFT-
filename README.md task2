@@ -1,0 +1,17 @@
+# Tic-Tac-Toe AI
+
+## Objective
+Build an AI agent that plays Tic-Tac-Toe against a human player.
+
+## Algorithm Used
+Minimax Algorithm
+
+## Features
+- Human vs AI gameplay
+- AI selects the best move
+- Win, lose, and draw detection
+- Console-based interface
+
+## Outcome
+The AI evaluates possible moves and chooses the optimal move, making it difficult to defeat.
+
