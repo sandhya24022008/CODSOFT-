@@ -1,0 +1,22 @@
+# TASK 3 - IMAGE CAPTIONING AI
+
+## Description
+This project generates captions for images using Artificial Intelligence. It uses the BLIP (Bootstrapping Language-Image Pre-training) model from Hugging Face to analyze an image and create a descriptive caption automatically.
+
+## Features
+- Generates captions for images
+- Uses a pre-trained deep learning model
+- Simple and easy-to-understand Python code
+
+## Technologies Used
+- Python
+- Transformers
+- PyTorch
+- Pillow
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone <repository-link>
